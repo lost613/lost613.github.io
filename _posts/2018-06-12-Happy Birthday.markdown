@@ -1,3 +1,12 @@
+---
+title:  "致我最爱的人kings"
+subtitle: "Happy Birthday"
+author: "Lost"
+avatar: "img/authors/author.jpg"
+image: "img/2017-04-04.jpg"
+date:   2018-06-12 00:30:00
+---
+
 # 致我最爱的人kings
 
 ### 我爱你，没有什么目的。只是爱你。
