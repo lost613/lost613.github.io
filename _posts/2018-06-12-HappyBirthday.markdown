@@ -3,8 +3,8 @@ title:  "致我最爱的人kings"
 subtitle: "Happy Birthday"
 author: "Lost"
 avatar: "img/authors/author.jpg"
-image: "img/2017-04-04.jpg"
-date:   2018-06-12 00:30:00
+image: "img/2018-06-12.jpg"
+date:   2018-06-12 00:54:00
 ---
 
 # 致我最爱的人kings
